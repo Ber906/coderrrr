@@ -42,13 +42,13 @@ const swaggerRouter = (() => {
   const swaggerDefinition = {
     openapi: '3.0.0',
     info: {
-      title: 'ꋬ꒐ ꋬꉣ꒐',
+      title: 'Ber',
       version: '1.0.0',
       description: "ᴇɴᴊᴏʏ ғʀᴇᴇ ʟʟᴍ ᴀᴘɪ",
     },
     servers: [
       {
-        url: 'https://7510ece7-8c2f-40b0-8b24-7110dec13501-00-3fwhr71hbhv6.sisko.replit.dev',
+        url: 'https://api-ainz.onrender.com',
         description: 'Development Server',
       },
     ],

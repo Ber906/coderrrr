@@ -1,5 +1,5 @@
 {
-  "name": "llm api",
+  "name": "api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "llm, ai , gpt , Mistral, api "
   ],
-  "author": "Samir Œ",
+  "author": "Ber",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
